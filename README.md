@@ -11,12 +11,13 @@ Bu repository, ürün sayım işlemlerini geliştirmek ve test süreçlerini oto
 - [Lisans](#lisans)
 - [İletişim](#iletişim)
 
-
+```
 proje_adi/
 ├── clear-dataset             # Test için hazırlanmış kesim verileri 
-├── create_dataset            # Sistem tarafında günlük olarak oluşturulan json verisini kullanarak clear-dataset oluşturmak için kullanılması gereken kodlar
+├── create_dataset            # Sistem tarafından günlük olarak oluşturulan JSON verisini kullanarak clear-dataset oluşturmak için kullanılan kodlar
 ├── daily-check-intermac-product  # Günlük ürün sayım ve kontrol işlemleri
 └── new-function-test         # Yeni eklenen fonksiyonlar ile clear-dataset kullanarak performans testlerinin yapıldığı modül
+```
 
 
 ## Dosya Açıklamaları
